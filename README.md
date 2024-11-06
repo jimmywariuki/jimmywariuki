@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a frontend developer currently learning on my backend while perfecting javascript<br>i have intrest in cybersecurity<br>i have a passion with software development<br>am soon starting to learn on backend development<br>i am a front end developer
+i'm a frontend developer currently learning on my backend while perfecting javascript<br>i have intrest in cybersecurity<br>i have a passion with software development<br>am also a rapper
 
 
 ## 🌐 Socials:
